@@ -1,0 +1,29 @@
+{
+  "name": "07-node-npm-express",
+  "version": "1.0.0",
+  "description": "codefellows 301 lab 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannam999/07-node-npm-express.git"
+  },
+  "keywords": [
+    "express",
+    "code",
+    "fellows",
+    "articles",
+    "blog"
+  ],
+  "author": "Ryan Groesch and Joanna Coll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johannam999/07-node-npm-express/issues"
+  },
+  "homepage": "https://github.com/johannam999/07-node-npm-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
